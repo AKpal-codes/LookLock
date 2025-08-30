@@ -1,0 +1,8 @@
+{
+  "name": "look-lock",
+  "version": "1.0.0",
+  "description": "Face recognition login with Netlify and AWS Rekognition",
+  "dependencies": {
+    "@aws-sdk/client-rekognition": "^3.405.0"
+  }
+}
